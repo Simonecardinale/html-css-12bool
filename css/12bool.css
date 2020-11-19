@@ -14,9 +14,12 @@
     display: table;
 }
 
+.row {
+    height: 200px;
+}
+
 [class*="col-"] {
     float: left;
-    height: 200px;
 }
 
 .col-1 {
